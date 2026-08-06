@@ -1544,9 +1544,9 @@
       ],
       "support_group": "https://t.me/mi_11_lite_4g",
       "images": {
-        "banner": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1623401469.63435134.png",
-        "banner_lower": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1623401469.63435134.png",
-        "fallback": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1623401469.63435134.png"
+        "banner": "https://github.com/Aciss21/official_devices/blob/main/OTA/Banners/devices/courbet.png?raw=true",
+        "banner_lower": "https://github.com/Aciss21/official_devices/blob/main/OTA/Banners/devices/courbet.png?raw=true",
+        "fallback": "https://github.com/Aciss21/official_devices/blob/main/OTA/Banners/devices/courbet.png?raw=true"
       },
       "ota": {
         "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/courbet.json",
