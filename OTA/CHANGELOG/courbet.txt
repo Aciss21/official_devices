@@ -1,0 +1,10 @@
+AxionOS V2.8
+Build Date: 2026/08/06
+- Updated Kernel to 4.14.357-Paranoid
+- Add miui camera
+- kang common tree from sweet-stuff
+- Add Lunaris dolby
+- Integrated SonyDolby
+- Revert schedutil governor by default
+- Use REFLEX as idle governor
+
