@@ -1,10 +1,15 @@
-AxionOS V2.8
-Build Date: 2026/08/06
+AxionAOSP V2.8
+Build Date: 2026/08/07
+Device Changelog:
 - Updated Kernel to 4.14.357-Paranoid
-- Add miui camera
-- kang common tree from sweet-stuff
-- Add Lunaris dolby
-- Integrated SonyDolby
-- Revert schedutil governor by default
-- Use REFLEX as idle governor
+- Add missing drivers use SM8150 common
+- Updated vendor blobs
+- Improved camera compatibility
+- Improved fingerprint reliability
+- Optimized power management
+- Updated thermal configuration
+- Reflex for default governor 
+- Fixed audio routing issues
+- Improved Wi-Fi & Bluetooth stability
+- Fixed miscellaneous issues
 
