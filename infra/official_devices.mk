@@ -6,6 +6,7 @@ AXION_OFFICIAL_DEVICES := \
     panther \
     lynx \
     cheetah \
+    courbet \
     shiba \
     akita \
     husky \
@@ -130,3 +131,4 @@ AXION_OFFICIAL_MAINTAINERS_a52sxq := Genoxci
 AXION_OFFICIAL_MAINTAINERS_LG8n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_LH7n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_S666LN := KimelaZPrjkt.
+AXION_OFFICIAL_MAINTAINERS_courbet := 一スAciss
