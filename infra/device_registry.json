@@ -231,6 +231,11 @@
       "name": "Viaan",
       "github_username": "n0escape-exe"
     }
+    {
+      "id": "一スAciss",
+      "name": "PryL",
+      "github_username": "Aciss21"
+    }
   ],
   "devices": [
     {
@@ -898,6 +903,15 @@
       ],
       "support_group": "https://t.me/millenniumdiscussion",
       "image_url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/pova5/gold.png"
+    },
+    {
+      "codename": "courbet",
+      "name": "Mi 11 Lite 4G",
+      "maintainers": [
+        "一スAciss"
+      ],
+      "support_group": "https://t.me/CinCauBase",
+      "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1623401469.63435134.png"
     },
     {
       "codename": "S666LN",
