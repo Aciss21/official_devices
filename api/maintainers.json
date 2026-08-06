@@ -396,6 +396,14 @@
       "devices": [
         "mumba"
       ]
+    },
+    {
+      "id": "一スAciss",
+      "name": "PryL",
+      "github_username": "Aciss21",
+      "devices": [
+        "courbet"
+      ]
     }
   ]
 }
