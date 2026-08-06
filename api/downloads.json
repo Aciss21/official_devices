@@ -1549,11 +1549,11 @@
         "fallback": "https://github.com/Aciss21/official_devices/blob/main/OTA/Banners/devices/courbet.png?raw=true"
       },
       "ota": {
-        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/courbet.json",
-        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/courbet.json"
+        "gms": "https://raw.githubusercontent.com/Aciss21/official_devices/refs/heads/main/OTA/GMS/courbet.json",
+        "vanilla": "https://raw.githubusercontent.com/Aciss21/official_devices/refs/heads/main/OTA/VANILLA/courbet.json"
       },
-      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/courbet.txt",
-      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/courbet.md"
+      "changelog": "https://raw.githubusercontent.com/Aciss21/official_devices/refs/heads/main/OTA/CHANGELOG/courbet.txt",
+      "guide": "https://raw.githubusercontent.com/Aciss21/official_devices/refs/heads/main/Wiki/courbet.md"
     }
   ]
 }
