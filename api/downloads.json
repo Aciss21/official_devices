@@ -1534,5 +1534,26 @@
       "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/S666LN.txt",
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/S666LN.md"
     }
+    {
+      "codename": "courbet",
+      "name": "Mi 11 Lite 4G",
+      "brand": "Xiaomi",
+      "status": "active",
+      "maintainer_ids": [
+        "一スAciss."
+      ],
+      "support_group": "https://t.me/mi_11_lite_4g",
+      "images": {
+        "banner": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1623401469.63435134.png",
+        "banner_lower": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1623401469.63435134.png",
+        "fallback": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1623401469.63435134.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/courbet.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/courbet.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/courbet.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/courbet.md"
+    }
   ]
 }
