@@ -4,6 +4,8 @@ Device Changelog:
 - Updated Kernel to 4.14.357-Paranoid
 - Add missing drivers use SM8150 common
 - Updated vendor blobs
+- Fixed blur effect 
+- Fixed miui camera
 - Improved camera compatibility
 - Improved fingerprint reliability
 - Optimized power management
